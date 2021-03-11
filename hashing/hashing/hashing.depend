@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1593008179 source:d:\dsa_codes\hashing\hashing\chaining.cpp
+	<bits/stdc++.h>
+	"chain.h"
+
+1593007249 d:\dsa_codes\hashing\hashing\chain.h
+	<iostream>
+

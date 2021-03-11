@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1592300593 source:d:\dsa_codes\tree\create.cpp
+	<iostream>
+	"Queuecpp.h"
+	"stackcpp.h"
+
+1592296891 d:\dsa_codes\tree\queuecpp.h
+	<iostream>
+
+1592300585 d:\dsa_codes\tree\stackcpp.h
+	<iostream>
+
